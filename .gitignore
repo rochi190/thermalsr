@@ -1,2 +1,5 @@
 previous_version/super_resolution/*.pth
 data/camera/*.avi
+*.pth
+*.avi
+*.swp
